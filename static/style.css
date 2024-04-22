@@ -1,5 +1,5 @@
 body {
-    background-color: #ffffff;
+    background-color: #E3DFFF;
     color: #212529;
     font-size: 2rem;
     font-weight: 400;
@@ -19,7 +19,7 @@ body {
 
 
 button, input[type="submit"] {
-    background-color: #5aabf1;
+    background-color: lightskyblue;
     border: 1px solid transparent;
     border-radius: 0.25rem;
     font-size: 0.95rem;
@@ -55,7 +55,7 @@ table {
 
 table th 
 {
-		background-color: #E8F1FF;
+		background-color: whitesmoke;
 		padding: 0.75rem;
     vertical-align: middle;
 }
@@ -65,15 +65,15 @@ table td{
 }
 
 td.footer{
-	background-color:#eeeeee;
+	background-color: aliceblue;
 	font-size: .75rem;
 	padding: 0.75rem;
-	font-family:Roboto,arial,sans-serif;
-	color: #70757a;
+	font-family:"Times New Roman", Times, serif;
+	color: black;
 }
 
 td.footer a{
-	color:#70757a;
+	color: black;
 	text-decoration: none;
 }
 
